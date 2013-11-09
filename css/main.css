@@ -69,6 +69,32 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+.no-mp {
+  margin: 0;
+  padding: 0; }
+
+.no-bull {
+  list-style-type: none; }
+
+.l-ib {
+  display: inline-block; }
+
+body {
+  padding: 1em; }
+
+.colour-swatch {
+  width: 6em;
+  height: 6em; }
+
+.primary-colour {
+  background: #6A0000; }
+
+.secondary-colour {
+  background: #3E5D00; }
+
+.tertiary-colour {
+  background: #003C3C; }
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */

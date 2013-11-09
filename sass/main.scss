@@ -86,8 +86,29 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+@import "vars";
+@import "layout";
 
+body {
+  padding: 1em;
+}
 
+.colour-swatch {
+  width: $swatch-size;
+  height: $swatch-size;
+}
+
+.primary-colour {
+  background: #6A0000;
+}
+
+.secondary-colour {
+  background: #3E5D00;
+}
+
+.tertiary-colour {
+  background: #003C3C;
+}
 
 
 
