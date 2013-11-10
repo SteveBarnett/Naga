@@ -92,7 +92,8 @@ textarea {
 body {
   padding: 1em;
   background: #f9f1f1;
-  color: #332121; }
+  color: #332121;
+  font-family: "ff-tisa-web-pro", serif; }
 
 .primary-colour-swatch {
   background: #6a0000; }
@@ -102,41 +103,6 @@ body {
 
 .tertiary-colour-swatch {
   background: #584848; }
-
-.adelle {
-  font-family: "adelle-sans", sans-serif; }
-  .adelle h1, .adelle h2, .adelle h3, .adelle h4, .adelle h5, .adelle h6 {
-    font-family: "adelle", serif; }
-
-.freight-text-pro {
-  font-family: "freight-text-pro", serif; }
-
-.freight-sans-pro {
-  font-family: "freight-sans-pro", sans-serif; }
-
-.freight {
-  font-family: "freight-text-pro", serif; }
-  .freight h1, .freight h2, .freight h3, .freight h4, .freight h5, .freight h6 {
-    font-family: "freight-sans-pro", sans-serif; }
-
-.jubilat {
-  font-family: "jubilat", serif; }
-
-.ff {
-  font-family: "ff-meta-serif-web-pro", serif; }
-  .ff h1, .ff h2, .ff h3, .ff h4, .ff h5, .ff h6 {
-    font-family: "ff-meta-web-pro", sans-serif; }
-
-.ff-switched {
-  font-family: "ff-meta-web-pro", serif; }
-  .ff-switched h1, .ff-switched h2, .ff-switched h3, .ff-switched h4, .ff-switched h5, .ff-switched h6 {
-    font-family: "ff-meta-serif-web-pro", sans-serif; }
-
-.tisa {
-  font-family: "ff-tisa-web-pro", serif; }
-
-.apertura {
-  font-family: "apertura", serif; }
 
 /* ==========================================================================
    Helper classes
