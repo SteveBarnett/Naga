@@ -109,6 +109,56 @@ body {
   background: $tertiary-colour;
 }
 
+.adelle {
+    font-family: "adelle-sans", sans-serif;
+    h1, h2, h3, h4, h5, h6 {
+        font-family: "adelle", serif;
+    }
+}
+
+.freight-text-pro {
+    font-family: "freight-text-pro", serif;
+}
+
+.freight-sans-pro {
+    font-family: "freight-sans-pro", sans-serif;
+}
+
+.freight {
+    font-family: "freight-text-pro", serif;
+    h1, h2, h3, h4, h5, h6 {
+        font-family: "freight-sans-pro", sans-serif;
+    }
+}
+
+.jubilat {
+    font-family: "jubilat", serif;
+}
+
+.ff {
+    // font-family: "ff-meta-web-pro", sans-serif;
+    font-family: "ff-meta-serif-web-pro", serif;
+    h1, h2, h3, h4, h5, h6 {
+        // font-family: "ff-ernestine-web-pro", serif;
+        font-family: "ff-meta-web-pro", sans-serif;
+    }
+}
+
+.ff-switched {
+    font-family: "ff-meta-web-pro", serif;
+    h1, h2, h3, h4, h5, h6 {
+        font-family: "ff-meta-serif-web-pro", sans-serif;
+    }
+}
+
+.tisa {
+    font-family: "ff-tisa-web-pro", serif;
+}
+
+.apertura {
+    font-family: "apertura", serif;
+}
+
 
 
 /* ==========================================================================
