@@ -1,0 +1,54 @@
+body {
+  font-family: "ff-tisa-web-pro", serif;
+}
+
+.headings-set1 {
+  h1 {
+    background-color: $secondary-colour;
+    color: $page-colour;
+    text-transform: uppercase;
+    font-weight: normal;
+    padding: 0.25em 1em;
+    margin: 0 -#{$small-padding};
+  }
+
+  h2 {
+    color: $secondary-colour;
+    text-transform: uppercase;
+    font-weight: normal;
+  }
+
+  h4, h5, h6 {
+    color: $tertiary-colour;
+  }
+}
+
+.headings-set2 {
+  h1 {
+    background-color: $secondary-colour;
+    color: $page-colour;
+    font-weight: normal;
+    padding: 0.25em 1em;
+    margin: 0 -#{$small-padding};
+  }
+
+  h2 {
+    color: $secondary-colour;
+    text-transform: uppercase;
+  }
+}
+
+.headings-set3 {
+  h1 {
+    color: $secondary-colour;
+  }
+
+  h2 {
+    text-transform: uppercase;
+  }
+
+  h3 {
+    text-transform: uppercase;
+    text-align: center;
+  }
+}

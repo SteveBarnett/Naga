@@ -90,12 +90,12 @@ textarea {
 @import "layout";
 @import "utils";
 @import "colours";
+@import "typography";
 
 body {
-  padding: 1em;
+  padding: $small-padding;
   background: $page-colour;
   color: $page-text-colour;
-  font-family: "ff-tisa-web-pro", serif;
 }
 
 .primary-colour-swatch {
