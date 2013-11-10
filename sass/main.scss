@@ -110,6 +110,19 @@ body {
   background: $tertiary-colour;
 }
 
+a:link {
+  color: $secondary-colour;
+}
+
+a:visited {
+  color: darken($secondary-colour, 10%);
+}
+
+a:focus,
+a:hover,
+a:active {
+  color: lighten($secondary-colour, 20%);
+}
 
 /* ==========================================================================
    Helper classes

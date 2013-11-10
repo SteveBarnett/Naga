@@ -10,6 +10,19 @@ h1 {
   font-weight: normal;
   padding: 0.25em 1em;
   margin: 0 -#{$small-padding};
+  a:link {
+    color: $page-colour;
+  }
+
+  a:visited {
+    color: darken($page-colour, 10%);
+  }
+
+  a:focus,
+  a:hover,
+  a:active {
+    color: lighten($page-colour, 20%);
+  }
 }
 
 h2 {
