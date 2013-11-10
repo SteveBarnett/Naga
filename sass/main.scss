@@ -89,116 +89,25 @@ textarea {
 @import "vars";
 @import "layout";
 @import "utils";
+@import "colours";
 
 body {
   padding: 1em;
+  background: $page-colour;
+  color: $page-text-colour;
 }
 
-.set1 {
-  .primary-colour {
-    background: #6A0000;
-  }
-
-  .secondary-colour {
-    background: #3E5D00;
-  }
-
-  .tertiary-colour {
-    background: #003C3C;
-  }
-
-  .page-colour {
-    background: #FFF;
-  }
+.primary-colour-swatch {
+  background: $primary-colour;
 }
 
-.set2 {
-  .primary-colour {
-    background: #590029;
-  }
-
-  .secondary-colour {
-    background: #3A001A;
-  }
-
-  .tertiary-colour {
-    background: #613549;
-  }
-
-  .page-colour {
-    background: #FFF;
-  }
+.secondary-colour-swatch {
+  background: $secondary-colour;
 }
 
-.set3 {
-  .primary-colour {
-    background: #950000;
-  }
-
-  .secondary-colour {
-    background: #157215;
-  }
-
-  .tertiary-colour {
-    background: #950000;
-  }
-
-  .page-colour {
-    background: #FAFAED;
-  }
+.tertiary-colour-swatch {
+  background: $tertiary-colour;
 }
-
-.set4 {
-  .primary-colour {
-    background: #6A0000;
-  }
-
-  .secondary-colour {
-    background: #912424;
-  }
-
-  .tertiary-colour {
-    background: #584848;
-  }
-
-  .page-colour {
-    background: #F9EAEB;
-  }
-}
-
-.set5 {
-  .primary-colour {
-    background: #761128;
-  }
-
-  .secondary-colour {
-    background: #0C660D;
-  }
-
-  .tertiary-colour {
-    background: #765E64;
-  }
-
-  .page-colour {
-    background: #F9EAEB;
-  }
-}
-
-// off-whites
-// #FCF9F0;
-// #FCFBE3;
-// #FAFAED;
-// F9EAEB
-
-
-
-
-
-
-
-
-
-
 
 
 
