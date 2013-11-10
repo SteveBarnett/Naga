@@ -92,37 +92,21 @@ textarea {
 body {
   font-family: "ff-tisa-web-pro", serif; }
 
-.headings-set1 h1 {
-  background-color: #912424;
-  color: #f9f1f1;
-  text-transform: uppercase;
-  font-weight: normal;
-  padding: 0.25em 1em;
-  margin: 0 -1em; }
-.headings-set1 h2 {
-  color: #912424;
-  text-transform: uppercase;
-  font-weight: normal; }
-.headings-set1 h4, .headings-set1 h5, .headings-set1 h6 {
-  color: #584848; }
-
-.headings-set2 h1 {
+h1 {
   background-color: #912424;
   color: #f9f1f1;
   font-weight: normal;
   padding: 0.25em 1em;
   margin: 0 -1em; }
-.headings-set2 h2 {
-  color: #912424;
-  text-transform: uppercase; }
 
-.headings-set3 h1 {
+h2 {
   color: #912424; }
-.headings-set3 h2 {
+
+h3 {
   text-transform: uppercase; }
-.headings-set3 h3 {
-  text-transform: uppercase;
-  text-align: center; }
+
+h4, h5, h6 {
+  color: #584848; }
 
 body {
   padding: 1em;
