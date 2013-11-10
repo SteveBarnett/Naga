@@ -79,21 +79,63 @@ textarea {
 .l-ib {
   display: inline-block; }
 
-body {
-  padding: 1em; }
+.colours {
+  margin-bottom: 1em; }
 
 .colour-swatch {
   width: 6em;
   height: 6em; }
 
-.primary-colour {
+.simple-border {
+  border: solid 1px #000; }
+
+body {
+  padding: 1em; }
+
+.set1 .primary-colour {
   background: #6A0000; }
-
-.secondary-colour {
+.set1 .secondary-colour {
   background: #3E5D00; }
-
-.tertiary-colour {
+.set1 .tertiary-colour {
   background: #003C3C; }
+.set1 .page-colour {
+  background: #FFF; }
+
+.set2 .primary-colour {
+  background: #590029; }
+.set2 .secondary-colour {
+  background: #3A001A; }
+.set2 .tertiary-colour {
+  background: #613549; }
+.set2 .page-colour {
+  background: #FFF; }
+
+.set3 .primary-colour {
+  background: #950000; }
+.set3 .secondary-colour {
+  background: #157215; }
+.set3 .tertiary-colour {
+  background: #950000; }
+.set3 .page-colour {
+  background: #FAFAED; }
+
+.set4 .primary-colour {
+  background: #6A0000; }
+.set4 .secondary-colour {
+  background: #912424; }
+.set4 .tertiary-colour {
+  background: #584848; }
+.set4 .page-colour {
+  background: #F9EAEB; }
+
+.set5 .primary-colour {
+  background: #761128; }
+.set5 .secondary-colour {
+  background: #0C660D; }
+.set5 .tertiary-colour {
+  background: #765E64; }
+.set5 .page-colour {
+  background: #F9EAEB; }
 
 /* ==========================================================================
    Helper classes
