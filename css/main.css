@@ -90,14 +90,15 @@ textarea {
   border: solid 1px #000; }
 
 body {
-  font-family: "ff-tisa-web-pro", serif; }
+  font-family: "ff-tisa-web-pro", serif;
+  margin: 0 auto;
+  max-width: 45em; }
 
 h1 {
   background-color: #912424;
   color: #f9f1f1;
   font-weight: normal;
-  padding: 0.25em 1em;
-  margin: 0 -1em; }
+  padding: 0.25em 1em; }
   h1 a:link {
     color: #f9f1f1; }
   h1 a:visited {
